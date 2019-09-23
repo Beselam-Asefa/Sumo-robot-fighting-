@@ -1,5 +1,5 @@
 ## PSoC Creator Sumo-robot-fighting  project for Metropolia Pololu Zumo Robot competition 2019 
-
+<img src="Images/Capture.PNG">
 
 ## General 
 
@@ -8,7 +8,7 @@
 - code written in C.
 
 ## About zumo robot 
- The Pololu Zumo robot is an Arduino-controllable tracked robot platform that is less than 10 cm × 10 cm—small enough 
+ The Pololu Zumo robot is an Arduino-controllable tracked robot platform that is less than 10 cm Ã— 10 cmâ€”small enough 
  to qualify for Mini Sumo. It includes two micro metal gearmotors coupled to a pair of silicone tracks, a stainless steel 
  bulldozer-style blade, six infrared reflectance sensors for line following or edge detection, accelerometer
  and magnetometer, and a buzzer for simple sounds and music.
