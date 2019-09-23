@@ -1,5 +1,5 @@
 ## PSoC Creator Sumo-robot-fighting  project for Metropolia Pololu Zumo Robot competition 2019 
-<img src="Images/Capture.PNG" width="300">   <img src="Images/Capture2.PNG" width="300">  <img src="Images/Capture3.PNG" width="300">
+<img src="Images/Capture.PNG" width="400">    <img src="Images/Capture3.PNG" width="400">
 
 ## General 
 
